@@ -10,3 +10,6 @@ Este aplicativo web foi desenvolvido para análise interativa de dados de anúnc
 
 ## Objetivo:
 Facilitar a análise de dados de vendas de carros através de visualizações interativas, permitindo insights sobre preços, quilometragem e outras características dos veículos anunciados.
+
+## Url APP no Render
+https://projeto-sprint5-xwxr.onrender.com/
